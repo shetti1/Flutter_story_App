@@ -1,0 +1,4 @@
+#Sun Dec 22 14:27:00 IST 2019
+base.0=/home/prashant/AndroidStudioProjects/destini_app/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
